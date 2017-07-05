@@ -70,6 +70,7 @@ a {
 /*header*/
 
 header {
+    position: relative;
     background-image: url(http://book.jirengu.com/jirengu-inc/jrg-tehui/homework/%E8%8B%A5%E6%84%9A/16/img/header-bg.jpg);
     background-repeat: no-repeat;
     background-position: center center;
@@ -157,7 +158,7 @@ header .container>a {
 
 .wrap {
     position: absolute;
-    height: 773px;
+    height: 100%;
     width: 100%;
     overflow: hidden;
     top: 0;
